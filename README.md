@@ -14,8 +14,8 @@
 
 | Pipeline | Descripción | Cuaderno Interactivo |
 | :--- | :--- | :---: |
-| **Pipeline 1: Razonamiento y Búsqueda** | Espacio de estados y comparación de algoritmos de búsqueda (**A\*, BFS, DFS**) para planificación óptima de misión espacial. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/challenge-upch-mineria-asteroides/blob/main/notebooks/01_pipeline_busqueda_estados.ipynb) |
-| **Pipeline 2: Predicción y Visualización** | Pipeline completo de Machine Learning con **Modelo de Regresión** para predecir el valor económico de asteroides y gráficos interpretativos (Uso de IA como apoyo para graficar). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/challenge-upch-mineria-asteroides/blob/main/notebooks/02_pipeline_modelo_regresion.ipynb) |
+| **Pipeline 1: Razonamiento y Búsqueda** | Espacio de estados y comparación de algoritmos de búsqueda (**A\*, BFS, DFS**) para planificación óptima de misión espacial. | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ccr5pLN0WfxARbLV3X2iHoJn5z_Na98o?usp=sharing) |
+| **Pipeline 2: Predicción y Visualización** | Pipeline completo de Machine Learning con **Modelo de Regresión** para predecir el valor económico de asteroides y gráficos interpretativos (Uso de IA como apoyo para graficar). | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cqO8vgitjQ9_S11aTlrbgtWZfaH9NdjM?usp=sharing) |
 
 ---
 
